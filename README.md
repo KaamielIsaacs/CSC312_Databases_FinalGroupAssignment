@@ -125,11 +125,14 @@ All components were tested in MySQL Workbench:
 
 👥 Contributors
 
-Name	Student No.	Contribution
 Jean van Schalkwyk	4204301	SQL Querying, Testing & Validation
+
 Kaamiel Isaacs	4129581	Database Design
+
 Skye Jones (GL)	4122217	Database Implementation, Normalization & Conclusion
+
 Thaakirah Mosoval	4314422	Business Rules & Introduction
+
 Uwais Cornelius	4121659	Python Integration & GitHub Repository
 
 
